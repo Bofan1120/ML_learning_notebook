@@ -1,0 +1,3 @@
+1. 是不是所有的sigmoid function 都是 1/1+e superscripe(-z) 为什么选取这个函数？
+2. regularzation 为什么不选取相对的theta regularzation 去拟合，而是对所有theta进行regularzation？
+3. backpropagation的逆求导过程不清楚。
